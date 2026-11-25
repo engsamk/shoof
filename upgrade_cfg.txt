@@ -1,0 +1,62 @@
+[
+  {
+    "vendor": "shoof",
+    "model": "SH50",
+    "sub_model": "BGH",
+    "sub_id": 1,
+    "sw": [
+      {
+        "version": 1067,
+        "force": 0,
+        "url": "https://raw.githubusercontent.com/engsamk/shoof/refs/heads/main/SHOOF_TGHC140_SH50_BGH_1_RMB1_V1067_F.bin",
+        "info": "bug fixed"
+      }
+    ],
+    "db": [
+      {
+        "version": 1,
+        "force": 0,
+        "url": "https://raw.githubusercontent.com/engsamk/shoof/refs/heads/main/SH50_BGH_V1_channellist.bin",
+        "info": "enjoy tv show"
+      }
+    ],
+    "emu": [
+      {
+        "version": 1,
+        "force": 0,
+        "url": "https://raw.githubusercontent.com/engsamk/shoof/refs/heads/main/SH50_V1_emu.bin",
+        "info": "latest emu"
+      }
+    ]
+  },
+  {
+    "vendor": "shoof",
+    "model": "SH50",
+    "sub_model": "NVH",
+    "sub_id": 2,
+    "sw": [
+      {
+        "version": 1067,
+        "force": 0,
+        "url": "https://raw.githubusercontent.com/engsamk/shoof/refs/heads/main/SHOOF_TGHC140_SH50_NVH_2_RMB1_V1067_F.bin",
+        "info": "bug fixed"
+      }
+    ],
+    "db": [
+      {
+        "version": 1,
+        "force": 0,
+        "url": "https://raw.githubusercontent.com/engsamk/shoof/refs/heads/main/SH50_NVH_V1_channellist.bin",
+        "info": "enjoy tv show"
+      }
+    ],
+    "emu": [
+      {
+        "version": 1,
+        "force": 0,
+        "url": "https://raw.githubusercontent.com/engsamk/shoof/refs/heads/main/SH50_V1_emu.bin",
+        "info": "latest emu"
+      }
+    ]
+  }
+]
